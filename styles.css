@@ -8,7 +8,7 @@
 body {
     font-family: 'Courier New', monospace; /* Monospaced font for a cryptography feel */
     background-color: #1b1b1b; /* Dark background */
-    color: #e5e5e5; /* Light text for contrast */
+    color: white; /* Light text for contrast */
     line-height: 1.6;
     margin: 0;
     padding: 0;
@@ -30,7 +30,7 @@ header {
 
 header h1 {
     font-size: 2.5rem;
-    color: #00ffcc; /* Cryptography-inspired green */
+    color: white; /* Cryptography-inspired green */
     letter-spacing: 2px;
 }
 
