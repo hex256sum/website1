@@ -44,7 +44,7 @@ nav ul {
 
 nav ul li a {
     text-decoration: none;
-    color: #e5e5e5;
+    color: white;
     font-weight: bold;
     padding: 0.5rem 1rem;
     border: 1px solid #444;
@@ -54,7 +54,7 @@ nav ul li a {
 
 nav ul li a:hover {
     background-color: #00ffcc;
-    color: #121212;
+    color: white;
 }
 
 section {
@@ -65,12 +65,12 @@ section {
 section h2 {
     font-size: 2rem;
     margin-bottom: 1.5rem;
-    color: #00ffcc;
+    color: white;
 }
 
 section p {
     font-size: 1.1rem;
-    color: #cccccc;
+    color: white;
     margin-bottom: 2rem;
 }
 
@@ -88,7 +88,7 @@ section p {
 }
 
 .project h3 {
-    color: #00ffcc;
+    color: white;
     margin-bottom: 1rem;
 }
 
